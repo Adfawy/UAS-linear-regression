@@ -1,8 +1,8 @@
 # Regresi-Linear
 
-Ahmad Fawzy
-181011402280
-06TPLE023
+<b>Ahmad Fawzy</b>
+<b>181011402280</b>
+<b>06TPLE023</b>
 
 # Deskripsi
 Regresi Linear Adalah Sebuah Algoritma yang di implementasikan ke dalam Pembelajaran Mesin (Machine Learning)
